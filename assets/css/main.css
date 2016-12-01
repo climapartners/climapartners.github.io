@@ -1137,6 +1137,7 @@ p {
   margin: 0 0 2em 0; }
 
 small {
+  display: block;
   font-size: 0.8em;
   margin-bottom: 1em; }
 
